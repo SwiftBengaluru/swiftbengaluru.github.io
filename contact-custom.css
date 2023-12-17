@@ -35,3 +35,6 @@
 	color: rgba(26, 26, 26, 0.6);
 }
 
+.w3-card-2 {
+	box-shadow: none !important;
+}
